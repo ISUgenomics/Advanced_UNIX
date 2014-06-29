@@ -6,7 +6,7 @@ A loop, in programming language means a block of code (several lines of code, pe
  
 ## for loops
 
-Classical example for using if loops would be to itireate through a bunch of files, to perform certain operations.
+Classical example for using if loops would be to iterate through a bunch of files, to perform certain operations.
 Typically, the loop will look like this:
 ```bash
 for file in files;  
